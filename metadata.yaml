@@ -1,5 +1,8 @@
 _repo: Questions-at-Issue-in-Our-English-Speech_67953
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67953-h/images/cover.jpg
 creator:
   author:
     agent_name: Bowen, Edwin W. (Edwin Winfield)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54515'
     url: http://www.gutenberg.org/2009/agents/54515
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67953#Questions-at-Issue-in-Our-English-Speech
 gutenberg_issued: '2022-04-29'
 identifiers:
   gutenberg: '67953'
